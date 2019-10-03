@@ -1,0 +1,54 @@
+body {
+    font-family: 'Playball', cursive;
+
+}
+
+/* :root{
+    --verdeClaro: #379634;
+    --verdeEscuro: #0a3200;
+    --bege: #d2bf55;
+    --verdeAmarelado: #9bc53d;
+    --azul: #5749A3;
+}
+
+.verdeClaro{
+    color: var(--verdeClaro)
+}
+.verdeEscuro{
+    color: var(--verdeEscuro)
+}
+.bege{
+    color: var(--bege)
+}
+.verdeAmarelado{
+    color: var(--verdeAmarelado)
+}
+.azul{
+    color: var(--azul)
+} */
+
+.primary-color{
+    color: #d3325f;
+}
+
+.info{
+    background: #c9c1ac;
+}
+
+.info h2{
+    word-spacing: 0.6rem;
+}
+
+.info a{
+    transition: color 0.25s ease-in-out;
+}
+
+.info a:hover{
+    color: #313a3a;
+}
+/* header */
+#header{
+    min-height: calc(100vh - 94px);
+    min-width: 100vh;
+    background: url(../img/background4.jpg);
+}
