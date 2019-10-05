@@ -1,2 +1,2 @@
 # Tubarao-acai
-Uma página sobre um restalrante fictício
+Uma página sobre um restaurante fictício
